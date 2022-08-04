@@ -1,6 +1,6 @@
-# Gesture-Controlled-Keyboard-and-Mouse
+# Hand-Gesture-Controlled-Keyboard-and-Mouse
 
-A gesture controlled keyboard and mouse using Arduino and Ultrasonic sensor
+A hand gesture controlled keyboard and mouse using Arduino and Ultrasonic sensor
 
 This project uses Arduino UNO, Ultrasonic sensors and Python to move a mouse cursor and operate keys on a keyboard using gesture controls. 
 The ultrasonic sensors hooked to the Arduino are used to determine the distance of the hands from the ultrasonic sensors. 
